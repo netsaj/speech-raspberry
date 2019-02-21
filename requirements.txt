@@ -1,0 +1,5 @@
+google-cloud-speech
+pyaudio
+wave
+requests
+json_tricks
